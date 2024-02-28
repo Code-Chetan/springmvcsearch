@@ -2,7 +2,6 @@ package springmvcsearch.controller;
 
 import java.io.File;
 
-import javax.servlet.http.HttpSession;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
